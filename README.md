@@ -9,10 +9,7 @@ This project implements a **Linear Regression Model** to predict house prices us
 - [Process](#process)
 - [Requirements](#requirements)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Project Overview
 
